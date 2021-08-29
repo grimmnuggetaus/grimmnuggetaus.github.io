@@ -23,7 +23,7 @@
 	margin-top: var(--user-background, -60px) !important;
 }
 #app-mount .userPopout-xaxa6l .headerTop-3vNv-a {
-	padding: 120px 16px 16px;
+	padding: 120px 32px 32px;
 }
 #app-mount .root-3QyAh1 .headerTop-547GTz {
 	min-height: 64px;
