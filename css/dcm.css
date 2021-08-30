@@ -11,7 +11,7 @@
 #app-mount .profileBanner-33-uE1::before {
 	content: "";
 	position: absolute;
-	background: #000 var(--user-background) var(--user-popout-position, center)/cover no-repeat;
+	background: #FFF var(--user-background) var(--user-popout-position, center)/cover no-repeat;
 	background-attachment: var(--user-background, fixed);
 	top: 0;
 	right: 0;
