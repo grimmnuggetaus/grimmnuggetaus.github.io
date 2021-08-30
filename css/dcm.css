@@ -1,10 +1,10 @@
 #app-mount .userPopout-xaxa6l .popoutBanner-19WKGg,
 #app-mount .userPopout-xaxa6l .profileBanner-33-uE1 {
-	height: 120px !important;
-	max-height: var(--user-background, 60px) !important;
+	height: 240px !important;
+	max-height: var(--user-background, 120px) !important;
 }
 #app-mount .root-3QyAh1 .profileBanner-33-uE1 {
-	height: 240px !important;
+	height: 480px !important;
 	max-height: var(--user-background, 120px) !important;
 }
 #app-mount .popoutBanner-19WKGg::before,
@@ -26,5 +26,5 @@
 	padding: 120px 32px 32px;
 }
 #app-mount .root-3QyAh1 .headerTop-547GTz {
-	min-height: 64px;
+	min-height: 128px;
 }
